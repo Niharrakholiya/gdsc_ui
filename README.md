@@ -31,15 +31,15 @@ This project is a simple Flutter UI application for managing events and hackatho
 ## Screenshots
 
 ### Login Screen
-![Login Screen](screenshots/image 0.jpeg)
+![Login Screen](screenshots/image 0.jpg)
 
 ### Signup Screen
-![Signup Screen](screenshots/image 1.jpeg)
+![Signup Screen](screenshots/image 1.jpg)
 
 ### Home Screen
-![Home Screen](screenshots/image 2.jpeg)
-![Home Screen](screenshots/image 3.jpeg)
-![Home Screen](screenshots/image 4.jpeg)
+![Home Screen](screenshots/image 2.jpg)
+![Home Screen](screenshots/image 3.jpg)
+![Home Screen](screenshots/image 4.jpg)
 
 ## Folder Structure
 
