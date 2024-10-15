@@ -31,15 +31,20 @@ This project is a simple Flutter UI application for managing events and hackatho
 ## Screenshots
 
 ### Login Screen
-<img src="screenshots/image_0.jpg" alt="Login Screen" width="300">
+<img src="screenshots/image0.jpg" alt="Login Screen" width="300">
 
 ### Signup Screen
-![Signup Screen](screenshots/image 1.jpg)
+<img src="screenshots/image1.jpg" alt="Signup Screen" width="300">
 
 ### Home Screen
-![Home Screen](screenshots/image 2.jpg)
-![Home Screen](screenshots/image 3.jpg)
-![Home Screen](screenshots/image 4.jpg)
+<img src="screenshots/image2.jpg" alt="Home Screen" width="300">
+
+### Event Carousel (Swipe Interaction)
+<img src="screenshots/image3.jpg" alt="Event Carousel" width="300">
+
+### Navigation Drawer
+<img src="screenshots/image4.jpg" alt="Navigation Drawer" width="300">
+
 
 ## Folder Structure
 
