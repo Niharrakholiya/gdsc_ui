@@ -31,7 +31,7 @@ This project is a simple Flutter UI application for managing events and hackatho
 ## Screenshots
 
 ### Login Screen
-![Login Screen](screenshots/image 0.jpg)
+![Login Screen](screenshots/image_0.jpg)
 
 ### Signup Screen
 ![Signup Screen](screenshots/image 1.jpg)
