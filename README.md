@@ -34,12 +34,12 @@ This project is a simple Flutter UI application for managing events and hackatho
 <img src="screenshots/image0.jpg" alt="Login Screen" width="300">
 
 ### Signup Screen
-![Signup Screen](screenshots/image1.jpg)
+<img src="screenshots/image1.jpg" alt="Signup Screen" width="300">
 
 ### Home Screen
-![Home Screen](screenshots/imag2.jpg)
-![Home Screen](screenshots/image3.jpg)
-![Home Screen](screenshots/image4.jpg)
+<img src="screenshots/image2.jpg" alt="Home Screen" width="300">
+<img src="screenshots/image3.jpg" alt="Home Screen" width="300">
+<img src="screenshots/image4.jpg" alt="Home Screen" width="300">
 
 ## Folder Structure
 
