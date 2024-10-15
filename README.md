@@ -27,6 +27,19 @@ This project is a simple Flutter UI application for managing events and hackatho
    - Displays upcoming events as cards.
    - Past events section for viewing previous hackathons and workshops.
    - A search bar and filter options are provided for users to look for specific events.
+     
+## Screenshots
+
+### Login Screen
+![Login Screen](screenshots/image 0.jpeg)
+
+### Signup Screen
+![Signup Screen](screenshots/image 1.jpeg)
+
+### Home Screen
+![Home Screen](screenshots/image 2.jpeg)
+![Home Screen](screenshots/image 3.jpeg)
+![Home Screen](screenshots/image 4.jpeg)
 
 ## Folder Structure
 
@@ -36,3 +49,5 @@ lib/
 ├── home_screen.dart      # UI for the home screen
 ├── login_screen.dart     # UI for the login screen
 └── signup_screen.dart    # UI for the signup screen
+
+
